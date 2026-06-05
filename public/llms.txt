@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://example.com
+https://madison-funeral-home.zappy5.app
 Madison Funeral Home provides compassionate funeral services in Madison, NY. From casket selection to floral arrangements, we guide families with warmth and trust. Begin planning a heartfelt tribute today.
 
 ### Obituaries
-https://example.com/obituaries
+https://madison-funeral-home.zappy5.app/obituaries
 Browse recent obituaries and honor loved ones with Madison Funeral Home. Find service details, share memories, and light a candle of remembrance. View tributes and join a community of support today.
 
 ### Services
-https://example.com/services
+https://madison-funeral-home.zappy5.app/services
 Discover tailored funeral services at Madison Funeral Home, including caskets, floral designs, video tributes, and memorial planning. Let our team create a dignified, healing farewell. Explore options now.
 
 ### Locations & Team
-https://example.com/locations-team
+https://madison-funeral-home.zappy5.app/locations-team
 Connect with the compassionate team at Madison Funeral Home. Serving multiple locations with integrity, we provide personalized guidance when you need it most. Find a trusted professional near you.
 
 ### Contact
-https://example.com/contact
+https://madison-funeral-home.zappy5.app/contact
 Contact Madison Funeral Home for prompt, empathetic assistance. Whether planning ahead or in immediate need, our team is here to answer questions and provide comfort. Call or message us today.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://madison-funeral-home.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://madison-funeral-home.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://madison-funeral-home.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -48,8 +48,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 27999 Main Street, Madison, NY, 13402
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://madison-funeral-home.zappy5.app/contact
+- Endpoint: https://madison-funeral-home.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Funeral Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://madison-funeral-home.zappy5.app/sitemap.xml
+- Robots: https://madison-funeral-home.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://madison-funeral-home.zappy5.app/llms-full.txt
