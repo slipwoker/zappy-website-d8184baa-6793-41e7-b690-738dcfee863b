@@ -44,7 +44,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: buellm900@gmail.com
+- Address: 27999 Main Street, Madison, NY, 13402
 
 ### Contact form
 - URL: https://example.com/contact
