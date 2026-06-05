@@ -1,0 +1,83 @@
+# Madison Funeral Home — Generative Engine Optimization Map
+
+> Madison Funeral Home is a full-service funeral provider located in Madison, NY, offering compassionate end-of-life services including casket selection, floral arrangements, candles, and video tributes. The business operates across multiple locations and features a dedicated funeral team. Their website would need to reflect dignity, warmth, and trust, with key features like obituary listings and service information for grieving families.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Madison Funeral Home provides compassionate funeral services in Madison, NY. From casket selection to floral arrangements, we guide families with warmth and trust. Begin planning a heartfelt tribute today.
+
+### Obituaries
+https://example.com/obituaries
+Browse recent obituaries and honor loved ones with Madison Funeral Home. Find service details, share memories, and light a candle of remembrance. View tributes and join a community of support today.
+
+### Services
+https://example.com/services
+Discover tailored funeral services at Madison Funeral Home, including caskets, floral designs, video tributes, and memorial planning. Let our team create a dignified, healing farewell. Explore options now.
+
+### Locations & Team
+https://example.com/locations-team
+Connect with the compassionate team at Madison Funeral Home. Serving multiple locations with integrity, we provide personalized guidance when you need it most. Find a trusted professional near you.
+
+### Contact
+https://example.com/contact
+Contact Madison Funeral Home for prompt, empathetic assistance. Whether planning ahead or in immediate need, our team is here to answer questions and provide comfort. Call or message us today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Madison Funeral Home
+Madison Funeral Home is a full-service funeral provider located in Madison, NY, offering compassionate end-of-life services including casket selection, floral arrangements, candles, and video tributes. The business operates across multiple locations and features a dedicated funeral team. Their website would need to reflect dignity, warmth, and trust, with key features like obituary listings and service information for grieving families.
+
+## Target Audience
+- Families and individuals in Madison, NY seeking funeral services
+- Local Families in Madison
+- Elderly Caregivers
+- Religious Communities
+
+## Industry
+Funeral Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
